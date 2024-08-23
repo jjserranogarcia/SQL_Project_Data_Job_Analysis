@@ -305,30 +305,30 @@ LIMIT 10;
 # What I learned
 This project has improved my data analytics skills, enhancing both my technical proficiency and analytical capabilities:
 
-👨🏻‍💻 Advanced SQL Techniques: Expanded my expertise with advanced SQL features, such as JOINs and subqueries, and leveraged powerful tools like CTEs to handle intricate data scenarios with ease.
+**👨🏻‍💻 Advanced SQL Techniques:** Expanded my expertise with advanced SQL features, such as JOINs and subqueries, and leveraged powerful tools like CTEs to handle intricate data scenarios with ease.
 
-✨ Problem Solving: Tackled various challenges, from troubleshooting query errors to optimizing performance. Each problem sharpened my ability to analyze and interpret results more effectively.
+**✨ Problem Solving:** Tackled various challenges, from troubleshooting query errors to optimizing performance. Each problem sharpened my ability to analyze and interpret results more effectively.
 
-📊 Data Aggregation: Mastered the use of aggregation techniques, including GROUP BY and functions like COUNT and AVG, to summarize and extract meaningful insights from complex datasets.
+**📊 Data Aggregation:** Mastered the use of aggregation techniques, including GROUP BY and functions like COUNT and AVG, to summarize and extract meaningful insights from complex datasets.
 
 # Conclusions
 
-**1. Top-Paying Data Analyst & Business Analyst Jobs:**
+### 1. Top-Paying Data Analyst & Business Analyst Jobs: ###
 
  The highest-paying roles in the EU for data analysts and business analysts offer impressive salaries up to $200,000. Many of these positions are categorized under the title of Research Engineer.
 
-**2. Skills for Top-Paying Jobs:** 
+### 2. Skills for Top-Paying Jobs: ### 
 
 To secure these high-paying roles, advanced proficiency in SQL, Python, and Spark is essential. These skills are crucial for excelling in top-tier positions.
 
-**3. Most In-Demand Skills:** 
+### 3. Most In-Demand Skills: ### 
 
 SQL and Python are among the most sought-after skills in the data analyst and business analyst job markets. Additionally, skills in Excel and data visualization tools such as Power BI and Tableau are also highly demanded.
 
-**4. Skills with Higher Salaries:** 
+### 4. Skills with Higher Salaries: ### 
 
 Top-paying skills often involve specialized software programs, such as MongoDB and Unify. These niche expertise areas are linked to the highest average salaries, indicating their premium value in the job market.
 
-**5. Optimal Skills for Job Market Value:** 
+### 5. Optimal Skills for Job Market Value: ###  
 
 SQL and Python not only top the list in terms of demand but also offer competitive salaries. Mastering these skills, along with Excel and advanced visualization tools, positions candidates favorably in the job market, enhancing their potential for high earnings.
