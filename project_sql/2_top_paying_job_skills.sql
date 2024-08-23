@@ -55,8 +55,13 @@ ORDER BY
     salary_year_avg DESC;
 
 /*
-Chatgpt insights: ...
-[
+
+ChatGPT Insights from the Data on Skills Frequency:
+  - Core Skills: SQL, Python, and Spark form the core technical skills in demand for data-related roles, emphasizing the importance of database management, programming, and big data processing.
+  - Supporting Skills: Cloud platforms (AWS, Azure), version control (Git, GitHub), and visualization tools (Power BI, Tableau) are also valued, although to a lesser extent.
+  - Specialized Tools: Technologies like Hadoop, while less frequently mentioned, remain relevant in specific contexts where large-scale data processing is required.
+  
+  [
   {
     "job_id": 1202839,
     "job_title": "Technology Research Engineer for Power Semiconductors (f/m/div.)",

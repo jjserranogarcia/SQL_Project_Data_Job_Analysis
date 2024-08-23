@@ -37,3 +37,11 @@ ORDER BY
     demand_count DESC
 
 LIMIT 5;
+
+/*
+High-Paying Database and Integration Skills: Skills in NoSQL databases like Mongo and data integration tools like Unify are among the top earners, reflecting the demand for managing complex, unstructured data.
+
+Valuable Programming and Infrastructure Expertise: Traditional programming languages (e.g., C, Spring) and DevOps tools (Terraform, Linux) are highly compensated, indicating the importance of robust programming and cloud infrastructure management in these roles.
+
+Emerging and Specialized Technologies: Staying current with newer tools like Databricks and Smartsheet leads to higher salaries, highlighting the value of expertise in cutting-edge technologies within data-centric roles.
+*/
