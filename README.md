@@ -206,7 +206,7 @@ LIMIT 10;
 ```
 
 
-| Skills     | Avg Salary  |
+| Skills     | Average Salary ($)  |
 |------------|-------------|
 | Mongo      | 165,000     |
 | Unify      | 163,782     |
