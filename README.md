@@ -65,7 +65,7 @@ ORDER BY
 
 LIMIT 10;
 ```
-![Top Paying Roles](project_sql\assets\1_top_paying_roles.jpg)
+![Top Paying Roles](assets\1_top_paying_roles.jpg)
 
 *Bar graph visualising the salary for the top 10 salaries for data analysts and business analysts*
 ### 2. What are the top-paying Data Analyst & Business Analyst jobs, and what skills are required? ###  
@@ -118,7 +118,7 @@ INNER JOIN skills_dim
 ORDER BY
     salary_year_avg DESC;
 ```
-![Top Paying Roles Skills](project_sql\assets\2_top_paying_jobs_skills.jpg)
+![Top Paying Roles Skills](assets\2_top_paying_jobs_skills.jpg)
 
 *Bar graph visualising the skill count for the top paying roles for data analysts and business analysts*
 
