@@ -306,7 +306,7 @@ LIMIT 10;
 
 ### 1. Top-Paying Data Analyst & Business Analyst Jobs: ###
 
- The highest-paying roles in the EU for data analysts and business analysts offer impressive salaries up to $200,000. Many of these positions are categorized under the title of Research Engineer.
+The highest-paying roles in the EU for data analysts and business analysts offer salaries up to $200,000. Many of these positions are categorized under the title of Research Engineer.
 
 ### 2. Skills for Top-Paying Jobs: ### 
 
@@ -322,7 +322,7 @@ Top-paying skills often involve specialized software programs, such as MongoDB a
 
 ### 5. Optimal Skills for Job Market Value: ###  
 
-SQL and Python not only top the list in terms of demand but also offer competitive salaries. Mastering these skills, along with Excel and advanced visualization tools, positions candidates favorably in the job market, enhancing their potential for high earnings.
+SQL and Python not only top the list in terms of demand but also offer competitive salaries. Mastering these skills, along with Excel and advanced visualization tools, ranks candidates favourably in the job market, increasing their potential for high earnings.
 
 # Closing Thoughts
 This project has improved my data analytics skills, enhancing both my technical proficiency and analytical capabilities:
