@@ -302,16 +302,7 @@ LIMIT 10;
 | 185      | Looker   | 34           | 98,792     |
 | 189      | SAP      | 34           | 89,855     |
 
-# What I learned
-This project has improved my data analytics skills, enhancing both my technical proficiency and analytical capabilities:
-
-**👨🏻‍💻 Advanced SQL Techniques:** Expanded my expertise with advanced SQL features, such as JOINs and subqueries, and leveraged powerful tools like CTEs to handle intricate data scenarios with ease.
-
-**✨ Problem Solving:** Tackled various challenges, from troubleshooting query errors to optimizing performance. Each problem sharpened my ability to analyze and interpret results more effectively.
-
-**📊 Data Aggregation:** Mastered the use of aggregation techniques, including GROUP BY and functions like COUNT and AVG, to summarize and extract meaningful insights from complex datasets.
-
-# Conclusions
+# Insights
 
 ### 1. Top-Paying Data Analyst & Business Analyst Jobs: ###
 
@@ -332,3 +323,12 @@ Top-paying skills often involve specialized software programs, such as MongoDB a
 ### 5. Optimal Skills for Job Market Value: ###  
 
 SQL and Python not only top the list in terms of demand but also offer competitive salaries. Mastering these skills, along with Excel and advanced visualization tools, positions candidates favorably in the job market, enhancing their potential for high earnings.
+
+# Closing Thoughts
+This project has improved my data analytics skills, enhancing both my technical proficiency and analytical capabilities:
+
+**👨🏻‍💻 Advanced SQL Techniques:** Expanded my expertise with advanced SQL features, such as JOINs and subqueries, and leveraged powerful tools like CTEs to handle intricate data scenarios with ease.
+
+**✨ Problem Solving:** Tackled various challenges, from troubleshooting query errors to optimizing performance. Each problem sharpened my ability to analyze and interpret results more effectively.
+
+**📊 Data Aggregation:** Mastered the use of aggregation techniques, including GROUP BY and functions like COUNT and AVG, to summarize and extract meaningful insights from complex datasets.
