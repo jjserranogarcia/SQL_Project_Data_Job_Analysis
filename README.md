@@ -1,5 +1,5 @@
 # Introduction
-🌍 Eager to dive into the world of data analytics jobs in the European Union (EU)?
+🌍 Eager to dive into the world of data science jobs in the European Union (EU)?
 
 Discover the highest-paying roles for data analysts and business analysts, and uncover the essential skills you need to excel in these positions. 
 
