@@ -6,7 +6,7 @@ Discover the highest-paying roles for data analysts and business analysts, and u
 🔗 Access the SQL queries that powered these insights here: [project_sql folder](/project_sql/)
 
  # Background
-Starting out in the field of data analytics, I decided to explore the job market to identify the most valuable skills to learn.
+Starting out in the field of data science, I decided to explore the job market to identify the most valuable skills to learn.
 
 ### This project explores the following key questions:
 
